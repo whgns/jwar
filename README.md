@@ -1,6 +1,6 @@
 # jwar
-beginner python game
-
+beginner python game \n
+/n
 run move.py to start it. 
 presently, the tiny thing can:
     > "generate"  - prompts user for mapsize (square) and generates a list of list of lists with random place descriptions
