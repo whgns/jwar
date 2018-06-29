@@ -2,11 +2,11 @@
 beginner python game 
 
 
-run move.py to start it. 
+use ** > python move.py** to start it. 
 
 presently, the tiny thing can:
 
-    > "generate"  - prompts user for mapsize (square) and generates a list of list of lists with random place descriptions
+    > "generate"  - prompts user for map dimension and generates a list^3 with random place descriptions
     
     > "save"      - saves the map to urMap.jw
     
@@ -24,7 +24,11 @@ presently, the tiny thing can:
 this is meant to be an exercize in map-generation systems. 
 
 personal goals for this:
+
     * exploiting the z-axis
+
     * random-walk river carving
+    
     * voroni assignment of terrain
+    
     * procedural mountain generation
