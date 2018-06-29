@@ -2,7 +2,7 @@
 beginner python game 
 
 
-use ** > python move.py** to start it. 
+use **python move.py** to start it. 
 
 presently, the tiny thing can:
 
