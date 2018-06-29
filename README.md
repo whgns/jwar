@@ -12,7 +12,7 @@ presently, the tiny thing can:
     
     > "open"      - attempts to open urMap.jw and load the data
     
-    > "n/s/e/w"   - the cardinal direction, as in MUDS or whatever. doesn't support full words, does parse uppercase.
+    > "n/s/e/w"   - the cardinal direction; doesn't support full words, *does* parse uppercase.
     
     > "l"         - check out your surroundings. may be one of 5 different sentences!
     
